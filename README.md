@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujansstha&label=Profile%20views&color=0e75b6&style=flat" alt="sujansstha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+target="_blank"
 
 - 🌱 I’m currently learning **PHP**
 
@@ -15,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujan-pradhan-9517ab22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan-pradhan-9517ab22b" height="30" width="40" /></a>
-<a href="https://instagram.com/sujan_prd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujan_prd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCBjadyhDPutmB1TcYThszug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knowledgeofapplication" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujan-pradhan-9517ab22b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan-pradhan-9517ab22b" height="30" width="40" /></a>
+<a href="https://instagram.com/sujan_prd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujan_prd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBjadyhDPutmB1TcYThszug" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knowledgeofapplication" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
