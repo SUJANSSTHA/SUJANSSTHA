@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **sujanprd13@gmail.com**
+- 📫 How to reach me **sujanprd13@duck.com**
 
 - ⚡ Fun fact **I am funny 😎😎**
 
