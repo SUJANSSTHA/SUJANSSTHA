@@ -8,8 +8,8 @@
   <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
  
-  <span>- 🌱 I’m currently learning **PHP**</span><br>
-   <span>- 📫 How to reach me **sujanprd13@duck.com**</span><br>
+    <span>- 🌱 I’m currently learning **PHP**</span><br>
+    <span>- 📫 How to reach me **sujanprd13@duck.com**</span><br>
     <span>- ⚡ Fun fact **I am funny 😎😎**</span><br>
   
  
