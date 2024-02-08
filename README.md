@@ -9,11 +9,9 @@
  
  
   <span>- 🌱 I’m currently learning **PHP**</span><br>
-    
- 
-  - 📫 How to reach me **sujanprd13@duck.com**
- 
-  - ⚡ Fun fact **I am funny 😎😎**
+   <span>- 📫 How to reach me **sujanprd13@duck.com**</span><br>
+    <span>- ⚡ Fun fact **I am funny 😎😎**</span><br>
+  
  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
