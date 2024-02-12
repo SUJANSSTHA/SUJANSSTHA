@@ -8,7 +8,7 @@
   <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
  
-    - 🌱 I’m currently learning **PHP**<br>
+    - 🌱 I’m currently learning **Flutter**<br>
     - 📫 How to reach me **sujanprd13@duck.com**<br>
     - ⚡ Fun fact **I am funny 😎😎**<br>
   
